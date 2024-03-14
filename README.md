@@ -16,7 +16,7 @@
 
 ## 🌍 Based in Vancouver, BC | 📱 iOS Developer
 
-I love making apps that people enjoy using. I've been doing this for a bit over two years, focusing on making things look good and work well on iPhones and other Apple devices. Here's a bit about what I do and what I'm good at.
+I love making apps that people enjoy using. I've been doing this for a bit over three years, focusing on making things look good and work well on iPhones and other Apple devices. Here's a bit about what I do and what I'm good at.
 
 ### 🛠 Skills
 - **Languages & Frameworks:** Swift, SwiftUI, UIKit
