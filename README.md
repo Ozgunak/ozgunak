@@ -14,7 +14,7 @@
 
 # Hi there, I'm Ozgun Aksoy! 👋
 
-## 🌍 Based in Vancouver, BC | 📱 iOS Developer
+## 🌍 Based in Canada | 📱 iOS Developer
 
 I love making apps that people enjoy using. I've been doing this for a bit over three years, focusing on making things look good and work well on iPhones and other Apple devices. Here's a bit about what I do and what I'm good at.
 
