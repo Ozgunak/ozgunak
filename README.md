@@ -14,7 +14,7 @@
 
 # Hi there, I'm Ozgun Aksoy! 👋
 
-## 🌍 Based in Canada | 📱 iOS Developer
+## 🌍 Canada | 📱 iOS Developer
 
 I love making apps that people enjoy using. I've been doing this for a bit over three years, focusing on making things look good and work well on iPhones and other Apple devices. Here's a bit about what I do and what I'm good at.
 
@@ -25,11 +25,10 @@ I love making apps that people enjoy using. I've been doing this for a bit over 
 - **Other:** UI/UX Design, Networking (RESTful API), Firebase, JSON
 
 ### 📚 Education
-- **Masters in Software Engineering** from Hacettepe University (2020 - 2022)
-- **Bachelors in Mechanical Engineering** from Karabuk University (2011 - 2017)
+- **Masters in Software Engineering** from Hacettepe University
 
 ### 💡 Bootcamps & Certificates
-- **iOS Swift Bootcamp**, Patika.dev Mobven (Dec 2021 - Feb 2022)
+- **iOS Swift Bootcamp**, Patika.dev Mobven 
 
 ### 🌱 I'm currently learning...
 - Advanced UI/UX design principles to further enhance app aesthetics and functionality.
