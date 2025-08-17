@@ -12,7 +12,7 @@
 
 ---
 
-# Hi there, I'm Özgun Aksoy  
+# Hi there, I'm Ozgun Aksoy  
 
 I’m an iOS Developer based in Canada with a background in Software Engineering (M.Sc.) and a passion for creating apps that feel simple, smooth, and enjoyable to use.  
 
